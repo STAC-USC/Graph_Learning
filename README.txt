@@ -1,4 +1,4 @@
-Graph Laplacian Estimation (GLE) Package v.1.0.
+Graph Laplacian Learning (GLL) Package v.1.0.
 
 This MATLAB package includes implementations of graph learning algorithms presented in [1].
 
