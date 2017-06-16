@@ -9,6 +9,6 @@ To install the package:
 (1) Download the source files.
 (2) Run script 'start_graph_learning.m'
 
-The demo script 'demo_animals.m' shows the usage of functions used to estimate three different graph Laplacian matrices discussed in [1].
+The demo script 'demo_animals.m' shows the usage of functions used to estimate three different types of graph Laplacian matrices discussed in [1].
 
 Additional scripts and a more detailed description will be available soon.
