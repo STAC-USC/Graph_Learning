@@ -6,4 +6,4 @@ close all
 addpath('functions');
 addpath('misc');
 
-disp('GLL Package v.1.0.');
+disp('GLL Package v.2.0.');
