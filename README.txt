@@ -1,4 +1,4 @@
-Graph Laplacian Learning (GLL) Package v2.0.
+Graph Laplacian Learning (GLL) Package v2.1
 
 This MATLAB package includes implementations of graph learning algorithms presented in [1]-[2].
 
@@ -17,10 +17,19 @@ This MATLAB package includes implementations of graph learning algorithms presen
 
 To install the package:
 (1) Download the source files.
-(2) Run script 'start_graph_learning.m'
+(2) Run the script 'start_graph_learning.m'
 
 The demo script 'demo_animals.m' shows the usage of functions used to estimate three different graph Laplacian matrices discussed in [1].
 
 The demo script 'demo_us_temperature.m' shows the usage of functions used to estimate combinatorial Laplacian matrices from smooth signals discussed in [2]. The code regenerates Fig.7(e) in [2].
+
+The demo script 'demo_artificial_data_on_grid.m' implements the following steps: 
+   - generates a grid graph with random edges and a $\beta$-hop filter
+   - generates an artificial dataset based on the graph system, which is specified by the generated graph and filter
+   - runs the iterative algorithm described in [2].
+   - shows ground truth and estimated graphs as well as returns the estimated $\beta$
+
+
+
 
 
