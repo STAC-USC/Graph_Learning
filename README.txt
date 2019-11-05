@@ -1,19 +1,16 @@
-Graph Laplacian Learning (GLL) Package v2.1
+Graph Laplacian Learning (GLL) Package v2.2
 
-This MATLAB package includes implementations of graph learning algorithms presented in [1]-[2].
+This MATLAB package includes implementations of graph learning algorithms presented in [1]-[2]. The licensing information is available in LICENSE.txt
 
 [1] H. E. Egilmez, E. Pavez, and A. Ortega, "Graph learning from data under Laplacian and structural constraints," IEEE Journal of Selected Topics in Signal Processing, 2017.
-   
     Arxiv version:
         H. E. Egilmez, E. Pavez, and A. Ortega, "Graph learning from data under structural and Laplacian constraints," CoRR, vol. abs/1611.05181v2,2016. 
     [Online]. Available: https://arxiv.org/abs/1611.05181
 
 [2] H. E. Egilmez, E. Pavez, and A. Ortega, "Graph Learning from Filtered Signals: Graph System and Diffusion Kernel Identification," IEEE Transactions on Signal and Information Processing over Networks, 2018.
- 
     Arxiv version:
         H. E. Egilmez, E. Pavez, and A. Ortega, "Graph Learning from Filtered Signals: Graph System and Diffusion Kernel Identification," CoRR, vol. abs/1803.02553,2018. 
     [Online]. Available: https://arxiv.org/abs/1803.02553
-
 
 To install the package:
 (1) Download the source files.
